@@ -1,108 +1,136 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071A0B,100:00FF41&height=190&section=header&text=AFLAL%20MUHAJIR&fontSize=42&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20%7C%20SYSTEMS%20%7C%20CYBERSECURITY&descSize=13&descAlignY=57&descColor=C8FFD4" width="100%" alt="Aflal Muhajir — Matrix-inspired header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07080c,100:10281c&height=168&section=header&text=AFLAL%20MUHAJIR&fontSize=42&fontColor=E7EEE8&animation=fadeIn&fontAlignY=34&desc=HACKER%20CURIOSITY%20%C3%97%20DEVELOPER%20CRAFT&descSize=15&descAlignY=62&descColor=3DFF8A" width="100%" alt="Aflal Muhajir — hacker curiosity, developer craft"/>
 
-# `aflal@github:~$`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=3DFF8A&center=true&vCenter=true&width=720&lines=BIT+student+%C2%B7+University+of+Colombo;I+read+systems+before+I+trust+them.;Building+CryptiX.+Learning+in+public." alt="BIT student at the University of Colombo. Building CryptiX. Learning in public."/>
 
-### `> curiosity is the exploit. knowledge is the privilege.`
+`aflal@github:~$` &nbsp;&nbsp; **whoami**
 
-**BIT Student · Developer · Cybersecurity Enthusiast**
+**Developer in training · Systems curious · Security-minded**
 
-*Exploring the systems beneath the interface.*
+<sub>Hybrid profile. Hacker curiosity, developer craft. Nothing here is a certification.</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/aflalmuhajir/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/AflalMuhajir)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aflalmuhajir-10141c?style=for-the-badge&logo=linkedin&logoColor=9ECBFF)](https://www.linkedin.com/in/aflalmuhajir)
+[![GitHub](https://img.shields.io/badge/GitHub-AflalMuhajir-10141c?style=for-the-badge&logo=github&logoColor=3DFF8A)](https://github.com/AflalMuhajir)
 
 </div>
 
 ---
 
-## `01 / WHOAMI`
+## `01` &nbsp; signal
 
-```bash
-$ whoami
-Aflal Muhajir
+I'm **Aflal Muhajir**, a **BIT** student at the **University of Colombo**. I care about the layer under the interface: operating systems, networks, and the code that runs on them.
 
-$ cat /etc/interests
-Linux | Networking | Cybersecurity
-Software Development | System Internals
+This is a public profile, not a seniority claim. GitHub account opened **28 Apr 2024**. First public repository — this one — landed **12 Oct 2026**. No pinned projects yet. The interesting part is the direction, not a fake commit graph.
 
+> curiosity is the exploit. knowledge is the privilege.
+
+```text
 $ echo $MISSION
 Understand systems. Build useful things.
 Learn deeply. Secure by design.
 ```
 
-I'm a BIT student at the **University of Colombo**, interested in how computers, networks, operating systems, and software work beneath the surface.
+---
 
-My learning journey spans Linux, networking, cybersecurity, and application development. I enjoy exploring technical concepts, experimenting with tools, and turning curiosity into practical knowledge.
+## `02` &nbsp; three lanes
 
-## `02 / CURRENT OPERATIONS`
+Every line on this page sits in one lane. If it is not in **Confirmed**, it is not a credential.
 
-- `[LEARNING]` Linux, command-line workflows, and operating systems
-- `[LEARNING]` Networking fundamentals, TCP/IP, routing, and switching
-- `[EXPLORING]` Cybersecurity and security fundamentals
-- `[BUILDING]` Programming and application-development skills
-- `[EXPLORING]` Web hosting and infrastructure
+| Lane | What it means here |
+| --- | --- |
+| **Confirmed** | Already public. Identity, not a skill score. |
+| **Building** | Work I am shaping. Not a launched product. |
+| **Learning** | Study track. Not a job title. Not a certificate. |
 
-## `03 / TECH STACK`
+### Confirmed
 
-<p align="center"><strong>Languages & Development</strong></p>
+- **Aflal Muhajir** — GitHub [`AflalMuhajir`](https://github.com/AflalMuhajir)
+- **BIT** student, **University of Colombo**
+- LinkedIn — [aflalmuhajir](https://www.linkedin.com/in/aflalmuhajir)
+- This profile repository is public
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,windows&theme=dark" alt="Python, C, C++, Java, JavaScript, TypeScript, HTML, CSS and Windows icons"/>
-</p>
+### Building — CryptiX
 
-<p align="center"><strong>Systems & Tools</strong></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" alt="Linux, Git and GitHub icons"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Networking-Currently%20Learning-0A0A0A?style=flat-square&logo=cisco&logoColor=00FF41" alt="Networking — currently learning"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-Exploring-0A0A0A?style=flat-square&logo=kalilinux&logoColor=00FF41" alt="Cybersecurity — exploring"/>
-  <img src="https://img.shields.io/badge/Web%20Hosting-Exploring-0A0A0A?style=flat-square&logo=linux&logoColor=00FF41" alt="Web hosting — exploring"/>
-</p>
-
-<sub>These icons represent my learning interests and development areas, not a claim of professional mastery or certification.</sub>
-
-## `04 / BEYOND THE TERMINAL`
-
-I'm also building **CryptiX**, a startup focused on:
+A startup I am forming. Scope, not a client list and not revenue:
 
 - Windows application development
 - Mobile application development
 - Web hosting
 - Security appliances and installations
 
-I'm interested in connecting software development with systems, infrastructure, and security.
+The point is to connect software with systems, infrastructure, and security. Repos get pinned when there is something real to show.
 
-## `05 / NEXT OBJECTIVES`
+### Learning — the bench
 
-```text
-[+] Strengthen Linux and networking fundamentals
-[+] Improve programming through practical work
-[+] Build hands-on cybersecurity knowledge
-[+] Document labs, experiments, and useful notes
-[+] Publish projects as they become ready
-```
+| Track | Lane | Read this as |
+| --- | --- | --- |
+| Linux and the shell | Learning | Practice, not sysadmin tenure |
+| Networking / CCNA path | Learning | Syllabus. **Not CCNA certified** |
+| Cybersecurity | Exploring | Labs and concepts. Not a pentester title |
+| Git / GitHub | Practicing | The public graph is still young |
+| Windows development | Building | Early, through CryptiX |
+| Web hosting | Exploring | How sites stay up |
+| Python | Learning | Language |
+| C / C++ | Learning | Language |
+| Java | Learning | Language |
+| JavaScript / TypeScript | Learning | Language |
+| HTML / CSS | Learning | Language |
 
-## `06 / ESTABLISH CONNECTION`
+---
+
+## `03` &nbsp; icons
+
+<p align="center"><strong>Languages — learning</strong></p>
 
 <p align="center">
-  <a href="https://github.com/AflalMuhajir">
-    <img src="https://img.shields.io/badge/Explore%20my%20work-AflalMuhajir-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41" alt="Explore my GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aflalmuhajir/">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="Connect on LinkedIn"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css&theme=dark" alt="Python, C, C++, Java, JavaScript, TypeScript, HTML, CSS — learning"/>
 </p>
+
+<p align="center"><strong>Systems — learning, practicing, building</strong></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github&theme=dark" alt="Linux, Windows, Git, GitHub"/>
+</p>
+
+<p align="center">
+  <img alt="Linux — learning" src="https://img.shields.io/badge/Linux-Learning-10141c?style=flat-square&logo=linux&logoColor=3DFF8A"/>
+  <img alt="CCNA path — learning, not certified" src="https://img.shields.io/badge/CCNA_path-Learning_%C2%B7_not_certified-10141c?style=flat-square&logo=cisco&logoColor=9ECBFF"/>
+  <img alt="Cybersecurity — exploring" src="https://img.shields.io/badge/Cybersecurity-Exploring-10141c?style=flat-square&logoColor=3DFF8A"/>
+  <img alt="Git — practicing" src="https://img.shields.io/badge/Git-Practicing-10141c?style=flat-square&logo=git&logoColor=3DFF8A"/>
+  <img alt="Windows dev — building" src="https://img.shields.io/badge/Windows_dev-Building-10141c?style=flat-square&logo=windows&logoColor=9ECBFF"/>
+  <img alt="Web hosting — exploring" src="https://img.shields.io/badge/Web_hosting-Exploring-10141c?style=flat-square&logo=nginx&logoColor=3DFF8A"/>
+</p>
+
+<sub>Icons are a map of interest. They are not a seniority matrix and not a wall of certifications.</sub>
+
+---
+
+## `04` &nbsp; now
+
+```text
+[ LEARN ]   Linux, the shell, and how a process actually starts
+[ LEARN ]   TCP/IP, routing, switching — CCNA as a syllabus, not a badge
+[ EXPLORE ] logs, defaults, and why weak assumptions get owned
+[ BUILD ]   small programs until CryptiX has something worth pinning
+[ WRITE ]   labs and notes in public, once they are real
+```
+
+Empty stats cards, streak counters, and trophy walls stay off this page until the graph deserves them. A zero looks louder than silence.
+
+---
+
+## `05` &nbsp; link
 
 <div align="center">
 
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-10141c?style=for-the-badge&logo=linkedin&logoColor=9ECBFF)](https://www.linkedin.com/in/aflalmuhajir)
+[![GitHub AflalMuhajir](https://img.shields.io/badge/Follow-AflalMuhajir-10141c?style=for-the-badge&logo=github&logoColor=3DFF8A)](https://github.com/AflalMuhajir)
+
 `root@curiosity:~# keep_learning --always`
 
-<sub>Built with curiosity. Powered by persistence. Always under development.</sub>
+<sub>Built with curiosity. No fake seniority. Still compiling.</sub>
 
 </div>
